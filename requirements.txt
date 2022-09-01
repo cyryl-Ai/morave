@@ -1,10 +1,6 @@
-absl-py==1.2.0
 asgiref==3.5.2
 astunparse==1.6.3
-boto3==1.11.8
-botocore==1.14.17
 cachetools==5.1.0
-certifi==2022.5.18.1
 charset-normalizer==2.0.12
 cycler==0.11.0
 Django==4.0.5
@@ -56,6 +52,5 @@ typing_extensions==4.2.0
 tzdata==2022.2
 urllib3==1.25.11
 Werkzeug==2.1.2
-whitenoise==6.2.0
 wrapt==1.14.1
 zipp==3.8.0
